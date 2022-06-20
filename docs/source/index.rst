@@ -9,6 +9,10 @@ and offers a *simple* and *intuitive* API.Lumache has its documentation hosted o
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+.. image:: someimage.png
+   :class: with-border with-shadow
+   :alt: How Lumache makes life easier!
+
 .. note::
 
    This project is under active development.
